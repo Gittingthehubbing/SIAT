@@ -5,7 +5,7 @@ We are honored that the Earth Vision organizing committee has selected our work 
 
 The SIAT model consists of a Vision transformer backbone that acts as a feature extractor for individual all-sky images. This part of the model is referred to as the backbone. For a sequence of images the extracted feature vectors are fed into the head model, which uses the huggingface GPT2 implementation. This allows the model to forecast irradiance multiple timesteps into the future.
 
-![text](Figures/fisheye_heyecbennuu_Prediction_Day5_Month2_Year2020.png)
+![Example predictions by SIAT model compared to smart persistence approach.](Figures/fisheye_heyecbennuu_Prediction_Day5_Month2_Year2020.png)
 
 [Link to paper](https://arxiv.org/abs/2305.18487)
 
