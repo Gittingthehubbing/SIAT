@@ -11,4 +11,6 @@ The SIAT model consists of a Vision transformer backbone that acts as a feature 
 
 To run both the backbone and the full model with dummy input tensors please run models_with_dummy_input.py from the main directory.
 
+The results for the competing ECLIPSE model are based on an unoffical implementation: [Link](https://github.com/tcapelle/eclipse_pytorch/blob/13b1c41b076a535eb01abf37f777f9fa8309ee48/eclipse_pytorch/model.py)
+
 Full training code coming soon.
